@@ -20,6 +20,7 @@
 
 ## 💫 Let's connect
 - 💌 [Email](mailto:marisombra@proton.me)
+- 🎮 [Twitch](https://www.twitch.tv/marissombra)    
 - 🧵 [Facebook](https://www.facebook.com/patricia.tate.73744)
 - 🪩 [Itch.io](https://marisombra.itch.io/) (for games)
 
