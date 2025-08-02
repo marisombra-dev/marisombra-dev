@@ -2,11 +2,9 @@
 
 # 👋 Hi, I'm Marisombra — the shadow tide.
 
-Builder of strange tools, games and bilingual dreams
-
 🌍 I build tools, write games, and code my way toward financial freedom.
 
-🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner
+🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner • 🌍 Bilingual Dreamer
 
 ## 🛠️ Projects
 - 🔹 [DreamSeed Builder](https://github.com/pattipur/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast) 
