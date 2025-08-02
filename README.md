@@ -12,8 +12,8 @@
 - 🔹 [DreamSeed Builder](https://github.com/pattipur/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast) 
 - 🔹 [LegalSaaSMVP](https://github.com/pattipur/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with hidden depth
-- 🔹 [Twitch-Subtitles](https://github.com/pattipur/twitch-subtitles) - real time english subtitles (optional translation) on Twitch (chrome extension)
-- 🔹 [spanglish](http://github.com/pattipur/spanglish-chrome-extension) - aids immersive learning by replacing english words with spanish equivalent on most webpages
+- 🔹 [Twitch-Subtitles](https://github.com/pattipur/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
+- 🔹 [spanglish](http://github.com/pattipur/spanglish-chrome-extension) - an extension for immersive learning by replacing english words with spanish equivalent on most webpages
 
 ## 🎯 What I'm currently working on
 - AI-powered tools for small businesses and freelancers
