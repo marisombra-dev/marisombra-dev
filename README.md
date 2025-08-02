@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Marisombra — the shadow tide.
 
-(Also known as Patricia, builder of strange tools and quiet rebellions.)
+Builder of strange tools, games and bilingual dreams
 
 🌍 I build tools, write games, and code my way toward financial freedom.
 
