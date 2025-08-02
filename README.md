@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Marisombra — the shadow tide.
+# 👋 Hi, I'm Marisombra — The Shadow Tide.
 
 🌍 I build tools, write games, and code my way toward financial freedom.
 
