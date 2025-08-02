@@ -9,6 +9,7 @@
 🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner
 
 ## 🛠️ Projects
+- 🔹 [DreamSeed Builder](https://github.com/pattipur/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast) 
 - 🔹 [LegalSaaSMVP](https://github.com/pattipur/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with hidden depth
 - 🔹 [Twitch-Subtitles](https://github.com/pattipur/twitch-subtitles) - real time english subtitles (optional translation) on Twitch (chrome extension)
