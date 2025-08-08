@@ -7,7 +7,7 @@
 
 ## 🛠️ Projects
 - 🔹 [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast)
-- 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles! 
+- 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles 
 - 🔹 [LegalSaaSMVP](https://github.com/marisombra-dev/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with fun arithmetic
 - 🔹 [Twitch-Subtitles](https://github.com/marisombra-dev/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
