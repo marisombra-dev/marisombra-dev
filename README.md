@@ -6,11 +6,12 @@
 🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner • 🌍 Bilingual Dreamer
 
 ## 🛠️ Projects
-- 🔹 [DreamSeed Builder](https://github.com/pattipur/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast) 
-- 🔹 [LegalSaaSMVP](https://github.com/pattipur/LegalSaaSMVP) – a FastAPI-based micro-SaaS
+- 🔹 [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast)
+- 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles! 
+- 🔹 [LegalSaaSMVP](https://github.com/marisombra-dev/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with fun arithmetic
-- 🔹 [Twitch-Subtitles](https://github.com/pattipur/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
-- 🔹 [spanglish](http://github.com/pattipur/spanglish-chrome-extension) - an extension for immersive learning by replacing english words with spanish equivalent on most webpages
+- 🔹 [Twitch-Subtitles](https://github.com/marisombra-dev/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
+- 🔹 [spanglish](http://github.com/marisombra-dev/spanglish-chrome-extension) - enjoy immersive learning by replacing english words with spanish equivalent on most webpages
 
 ## 🎯 What I'm currently working on
 - AI-powered tools for small businesses and freelancers
