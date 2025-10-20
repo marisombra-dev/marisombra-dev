@@ -7,6 +7,7 @@
 
 ## 🛠️ Projects
 - 🔹 [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast)
+- 🔹 [ChatGPT-Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay/tree/main) - displays an animated avatar during ChatGPT voice conversations 
 - 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles 
 - 🔹 [LegalSaaSMVP](https://github.com/marisombra-dev/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with fun arithmetic
@@ -14,7 +15,7 @@
 - 🔹 [spanglish](http://github.com/marisombra-dev/spanglish-chrome-extension) - enjoy immersive learning by replacing english words with spanish equivalent on most webpages
 
 ## 🎯 What I'm currently working on
-- AI-powered tools for small businesses and freelancers
+- AI-powered tools for small businesses and freelancers and other humans
 - Web games that surprise and subvert expectations
 - Building a passive income stream one repo at a time
 - Chrome extensions that teach while they entertain
