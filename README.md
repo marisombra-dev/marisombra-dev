@@ -6,7 +6,7 @@
 🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner • 🌍 Bilingual Dreamer
 
 ## 🛠️ Projects
-- 🔹 [Language-Immersion](https://github.com/marisombra-dev/language-immersion) - learn up to 24 languages naturally with adjustable immersion levels on any webpage
+- 🔹 [Language-Immersion](https://github.com/marisombra-dev/language-immersion) - learn up to 24 languages naturally with adjustable immersion on any webpage
 - 🔹 [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast)
 - 🔹 [Spicy-Advent-Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) - a fun (18+) Advent calendar, filled with spicy suggestions to enjoy the season
 - 🔹 [ChatGPT-Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay/tree/main) - turns ChatGPT into a video call by displaying an animated avatar 
