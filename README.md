@@ -20,7 +20,7 @@
 - AI-powered tools for small businesses and freelancers and other humans
 - Web games that surprise and subvert expectations
 - Building a passive income stream one repo at a time
-- Chrome extensions that teach while they entertain
+- Browser (Chrome, Edge, Brave, Opera, Firefox) extensions that teach while they entertain
 
 ## 💫 Let's connect
 - 💌 [Email](mailto:marisombra@proton.me)
