@@ -7,7 +7,7 @@
 
 ## 🛠️ Projects
 - 🔹 [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast)
-- 🔹 [Spicy-Advent-Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) - a fun Advent calendar, filled with spicy suggestions to enjoy the season (18+)
+- 🔹 [Spicy-Advent-Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) - a fun (18+) Advent calendar, filled with spicy suggestions to enjoy the season
 - 🔹 [ChatGPT-Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay/tree/main) - displays an animated avatar during ChatGPT voice conversations 
 - 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles 
 - 🔹 [LegalSaaSMVP](https://github.com/marisombra-dev/LegalSaaSMVP) – a FastAPI-based micro-SaaS
