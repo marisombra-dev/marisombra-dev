@@ -3,7 +3,7 @@
 
 🌍 I build tools, write games, and code my way toward financial freedom. 
 
-🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner • 🌍 Bilingual Dreamer
+🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner • 🌍 Multilingual Dreamer
 
 ## 🛠️ Projects
 - 🔹 [Language-Immersion](https://github.com/marisombra-dev/language-immersion) - learn up to 24 languages naturally with adjustable immersion on any webpage
