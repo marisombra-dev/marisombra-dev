@@ -15,10 +15,10 @@
 - 🔹 [LegalSaaSMVP](https://github.com/marisombra-dev/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with fun arithmetic
 - 🔹 [Twitch-Subtitles](https://github.com/marisombra-dev/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
-- 🔹 [spanglish](http://github.com/marisombra-dev/spanglish-chrome-extension) - enjoy immersive learning by replacing english words with spanish equivalent on most webpages
+- 🔹 [Posture-Guardian](http://github.com/marisombra-dev/Posture-Guardian) - A gentle guardian for your spine 🌿 Real-time posture monitoring with AI-powered detection
 
 ## 🎯 What I'm currently working on
-- AI-powered tools for small businesses and freelancers and other humans
+- AI-powered tools for small businesses and freelancers and other humans 
 - Web games that surprise and subvert expectations
 - Building a passive income stream one repo at a time
 - Browser (Chrome, Edge, Brave, Opera, Firefox) extensions that teach while they entertain
