@@ -12,7 +12,6 @@
 - 🔹 [Spicy-Advent-Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) - a fun (18+) Advent calendar, filled with spicy suggestions to enjoy the season
 - 🔹 [ChatGPT-Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay/tree/main) - turns ChatGPT into a video call by displaying an animated avatar 
 - 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles 
-- 🔹 [LegalSaaSMVP](https://github.com/marisombra-dev/LegalSaaSMVP) – a FastAPI-based micro-SaaS
 - 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with fun arithmetic
 - 🔹 [Twitch-Subtitles](https://github.com/marisombra-dev/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
 - 🔹 [Posture-Guardian](http://github.com/marisombra-dev/Posture-Guardian) - A gentle guardian for your spine 🌿 Real-time posture monitoring with AI-powered detection
