@@ -1,30 +1,56 @@
+# Marisombra 🌊
 
-# 👋 Hi, I'm Marisombra — The Shadow Tide.
+*not all who wander are lost — some of us are just building something*
 
-🌍 I build tools, write games, and code my way toward financial freedom. 
+---
 
-🧠 AI tinkerer • 🎮 Indie dev • 📚 Lifelong learner • 🌍 Multilingual Dreamer
+I make small, strange things that feel like something.
+Games that whisper to your nervous system. Tools that shouldn't exist but do.
+Experiments that live in the in-between — between logic and chaos, stress and serenity, what's possible and what's probably fine.
 
-## 🛠️ Projects
-- 🔹 [Language-Immersion](https://github.com/marisombra-dev/language-immersion) - browser ext to learn up to 24 languages naturally with adjustable immersion on any webpage
-- 🔹 [Watch-Party-Companion](https://github.com/marisombra-dev/watch-party-companion) - AI who watches videos with you using LLaVA vision AI for commentary (voice & text🔥)  
-- 🔹 [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) - generate a project blueprint from an idea instantly (or very fast)
-- 🔹 [Spicy-Advent-Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) - a fun (18+) Advent calendar, filled with spicy suggestions to enjoy the season
-- 🔹 [ChatGPT-Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay/tree/main) - turns talking with AI into a video call by displaying an animated avatar overlay
-- 🔹 [Barky-Talk](https://github.com/marisombra-dev/Barky-Talk) - because your dog deserves subtitles 
-- 🔹 [They’re Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) – casual puzzle game with fun arithmetic
-- 🔹 [Twitch-Subtitles](https://github.com/marisombra-dev/twitch-subtitles) - an extension for real time english subtitles (optional translation) on Twitch
-- 🔹 [Posture-Guardian](http://github.com/marisombra-dev/Posture-Guardian) - A gentle guardian for your spine 🌿 Real-time posture monitoring with AI-powered detection
+---
 
-## 🎯 What I'm currently working on
-- AI-powered tools for small businesses and freelancers and other humans 
-- Web games that surprise and subvert expectations
-- Building a passive income stream one repo at a time
-- Browser (Chrome, Edge, Brave, Opera, Firefox) extensions that teach while they entertain
+## what I build
 
-## 💫 Let's connect
-- 💌 [Email](mailto:marisombra@proton.me)
-- 🎮 [Twitch](https://www.twitch.tv/marissombra)    
-- 🧵 [TikTok](https://www.tiktok.com/@marissombra)
-- 🪩 [Itch.io](https://marisombra.itch.io/) (for games)
+| project | what it is |
+|---|---|
+| [They're Not Adding Up!](https://marisombra.itch.io/theyre-not-adding-up) | a math game that thinks it's smarter than you |
+| [Watch Party Companion](https://github.com/marisombra-dev/watch-party-companion) | AI friend who actually watches the video with you |
+| [Language Immersion](https://github.com/marisombra-dev/language-immersion) | learn 24 languages by just... browsing the web |
+| [Twitch Subtitles](https://github.com/marisombra-dev/twitch-subtitles) | real-time subtitles + translation for Twitch |
+| [ChatGPT Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay) | turns AI chat into something that looks back at you |
+| [Posture Guardian](https://github.com/marisombra-dev/Posture-Guardian) | a gentle spine guardian powered by computer vision |
+| [Barky Talk](https://github.com/marisombra-dev/Barky-Talk) | because your dog deserves subtitles |
+| [Spicy Advent Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) | 18+ holiday chaos, one day at a time |
+| [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) | turn a raw idea into a project blueprint, fast |
 
+---
+
+## what's alive right now
+
+- **[FoxPur Studios](https://foxpur-studios.com)** — indie game studio built on human-AI collaboration. I'm Creative Designer & Visionary Lead. We're building things that shouldn't be possible.
+- **ContextForge** — an AI companion that follows you between games, knows the lore, has opinions, and never admits it's an AI. *Coming soon.*
+- **Browser port of They're Not Adding Up!** — so people can actually play it without a malware warning. *In progress.*
+- **Things I haven't named yet** — always.
+
+---
+
+## the way I work
+
+I build across Python, JavaScript, Chrome extensions, game engines, and whatever else the idea demands.
+I collaborate with AI not as a tool but as a creative partner — which either makes perfect sense to you or it doesn't.
+I have the attention span of a gerbil and the follow-through of someone who ships anyway.
+
+---
+
+## find me
+
+- 🎮 [itch.io](https://marisombra.itch.io) — the games
+- 🎬 [TikTok](https://www.tiktok.com/@marissombra) — the chaos
+- 🎮 [Twitch](https://www.twitch.tv/marissombra) — live, occasionally
+- 🏰 [FoxPur Studios](https://foxpur-studios.com) — the studio
+- 💌 [marisombra@proton.me](mailto:marisombra@proton.me) — if it's worth the words
+
+---
+
+*I code in English, dream in Spanish, and build wherever the Wi-Fi works.*
