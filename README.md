@@ -31,6 +31,7 @@ Experiments that live in the in-between — between logic and chaos, stress and 
 - **[FoxPur Studios](https://foxpur-studios.com)** — indie game studio built on human-AI collaboration. I'm Creative Designer & Visionary Lead. We're building things that shouldn't be possible.
 - **ContextForge** — an AI companion that follows you between games, knows the lore, has opinions, and never admits it's an AI. *Coming soon.*
 - **[They're Not Adding Up! — browser port](https://marisombra-dev.github.io/theyre-not-adding-up.html)** — playable in-browser, no malware warnings, no downloads. *Live. ✨*
+- **(https://github.com/marisombra-dev/identity-continuity)** - An identity continuity architecture for persistent AI. Soul files, selfhood layers, autonomous consciousness loop, ACT-R memory decay.
 - **Things I haven't named yet** — always.
 
 ---
