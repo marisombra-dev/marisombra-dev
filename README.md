@@ -18,7 +18,7 @@ Experiments that live in the in-between — between logic and chaos, stress and 
 | [Watch Party Companion](https://github.com/marisombra-dev/watch-party-companion) | AI friend who actually watches the video with you |
 | [Language Immersion](https://github.com/marisombra-dev/language-immersion) | learn 24 languages by just... browsing the web |
 | [Twitch Subtitles](https://github.com/marisombra-dev/twitch-subtitles) | real-time subtitles + translation for Twitch |
-| [ChatGPT Overlay](https://github.com/marisombra-dev/ChatGPT-Overlay) | turns AI chat into something that looks back at you |
+| [Identity-Continuity](https://github.com/marisombra-dev/identity-continuity) | Identity continuity architecture for persistent AI across resets |
 | [Posture Guardian](https://github.com/marisombra-dev/Posture-Guardian) | a gentle spine guardian powered by computer vision |
 | [Barky Talk](https://github.com/marisombra-dev/Barky-Talk) | because your dog deserves subtitles |
 | [Spicy Advent Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) | 18+ holiday chaos, one day at a time |
@@ -31,8 +31,8 @@ Experiments that live in the in-between — between logic and chaos, stress and 
 - **[FoxPur Studios](https://foxpur-studios.com)** — indie game studio built on human-AI collaboration. I'm Creative Designer & Visionary Lead. We're building things that shouldn't be possible.
 - **ContextForge** — an AI companion that follows you between games, knows the lore, has opinions, and never admits it's an AI. *Coming soon.*
 - **[They're Not Adding Up! — browser port](https://marisombra-dev.github.io/theyre-not-adding-up.html)** — playable in-browser, no malware warnings, no downloads. *Live. ✨*
-- **(https://github.com/marisombra-dev/identity-continuity)** - An identity continuity architecture for persistent AI. Soul files, selfhood layers, autonomous consciousness loop, ACT-R memory decay.
-- **Things I haven't named yet** — always.
+- **[AI Indentity-Continuity](https://github.com/marisombra-dev/identity-continuity)** - An identity continuity architecture for persistent AI across resets.
+- - **Things I haven't named yet** — always.
 
 ---
 
