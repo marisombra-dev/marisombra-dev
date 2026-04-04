@@ -21,8 +21,7 @@ Experiments that live in the in-between — between logic and chaos, stress and 
 | [Identity-Continuity](https://github.com/marisombra-dev/identity-continuity) | Identity continuity architecture for persistent AI across resets |
 | [Posture Guardian](https://github.com/marisombra-dev/Posture-Guardian) | a gentle spine guardian powered by computer vision |
 | [Barky Talk](https://github.com/marisombra-dev/Barky-Talk) | because your dog deserves subtitles |
-| [Spicy Advent Calendar](https://github.com/marisombra-dev/spicy-advent-calendar) | 18+ holiday chaos, one day at a time |
-| [DreamSeed Builder](https://github.com/marisombra-dev/DreamSeed-Builder) | turn a raw idea into a project blueprint, fast |
+
 
 ---
 
